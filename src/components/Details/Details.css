@@ -19,6 +19,7 @@
   font-family: "Caravan", "Arial", sans-serif;
   font-size: 100px;
   font-weight: 200;
+  line-height: 0.8;
   margin: 0;
 }
 
@@ -135,6 +136,6 @@
     font-size: 12px;
     line-height: 25px;
     width: 80%;
-    margin: 15px 0 0;
+    margin: 7px 0 15px;
   }
 }
