@@ -215,7 +215,7 @@
   }
 
   .rsvp__text {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 28px;
     margin: 0;
   }
@@ -264,6 +264,11 @@
 @media screen and (max-width: 800px) {
   .rsvp {
     padding: 30px 0 0;
+  }
+
+  .rsvp__container {
+    margin: 0 auto;
+    width: 80%;
   }
 
   .rsvp__header {
