@@ -23,8 +23,8 @@ function Header() {
         ) : (
           <div className="header__mobile">
             <div className="header__info-mobile">
-              <p className="header__info_names-mobile">{namewoman} and</p>
-              <p className="header__info_names-mobile header__info_names-mobile-two">{nameman}</p>
+              <p className="header__info_names-mobile">{namewoman}</p>
+              <p className="header__info_names-mobile header__info_names-mobile-two">and {nameman}</p>
             </div>
             <div className="header__block">
               <h1 className="header__title">You invited to the wedding of </h1>
